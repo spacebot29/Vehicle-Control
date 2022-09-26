@@ -4,6 +4,7 @@
 * Recreated course project under University of Toronto MOOC [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) in MATLAB Simulink
 
 
+======================
 
 ## Kinematic Bicycle Model for Figure 8 Driving Control
 
@@ -11,6 +12,7 @@
 
 
 
+=========================
 
 ## Longitudinal Vehicle Control using throttle input
 
